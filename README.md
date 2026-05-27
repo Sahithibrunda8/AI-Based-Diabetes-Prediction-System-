@@ -1,11 +1,11 @@
-# AI-Based Diabetes Prediction System
+##AI-Based Diabetes Prediction System
 
 Machine Learning based diabetes prediction system developed using Random Forest Classifier and Streamlit.  
 The system predicts whether a person is likely to have diabetes based on various health indicators and lifestyle-related factors.
 
 ---
 
- #Features
+ ##Features
 
 - Diabetes prediction using health indicators
 - Random Forest Classifier for prediction
@@ -30,7 +30,7 @@ The system predicts whether a person is likely to have diabetes based on various
 
 ---
 
- #Dataset
+ ##Dataset
 
 The project uses the BRFSS 2015 Diabetes Health Indicators Dataset.
 
@@ -54,7 +54,7 @@ Target Variable:
 
 ---
 
- #Machine Learning Model
+ ##Machine Learning Model
 
 The project uses the *Random Forest Classifier* algorithm.
 
@@ -68,7 +68,7 @@ The project uses the *Random Forest Classifier* algorithm.
 
 ---
 
- #Evaluation Metrics
+ ##Evaluation Metrics
 
 The model performance is evaluated using:
 
@@ -81,7 +81,7 @@ The model performance is evaluated using:
 
 ---
 
- #Data Preprocessing
+ ##Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -94,7 +94,7 @@ The following preprocessing steps were performed:
 
 ---
 
- #Visualizations
+ ##Visualizations
 
 The project generates several plots including:
 
@@ -106,7 +106,7 @@ The project generates several plots including:
 
 ---
 
- #Project Structure
+ ##Project Structure
 
 AI-Based-Diabetes-Prediction-System/
  app.py
